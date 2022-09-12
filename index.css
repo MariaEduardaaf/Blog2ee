@@ -1,13 +1,10 @@
 #principal {
-    background-image: url(../img/principal.jpg);
-height: 500px;
+    background-image: url(../img/bb.png);
+height: 400px;
 width: auto;
 background-repeat: no-repeat;
-display: block;
-margin-left: auto;
-margin-right: auto;
 }
 
-#principal{
-    position: relative;
+#topo {
+display: flex;
 }
