@@ -8,3 +8,14 @@ background-repeat: no-repeat;
 #topo {
 display: flex;
 }
+
+#paises{
+    padding-left: 10px;
+    width: 400px;
+    height: 300px;
+}
+
+.game{
+    background-color: rgba(175, 220, 255, 0.251) !important;
+    border: 1cm solid rgba(0, 0, 0, 0.464);
+}
